@@ -1,3 +1,3 @@
 # My-First-Mockup
 
-![alt text](https://www.i-host.gr/Content/img/logo-white.png)
+![alt text](https://github.com/DESPOINANTAKOU/My-First-Mockup/blob/master/mockup%20.png?raw=true)
