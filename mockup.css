@@ -6,31 +6,29 @@
 
 body {
     background-color: #073642;
-    height: 100vh;
+    min-height: 100vh;
 }
-
-
-
-
 
 .grandParentDiv {
     margin-top: 1rem;
     margin-bottom: 1rem;
-    /* display: flex;
-  flex-direction: column; */
     width: 58rem;
     margin: auto;
     max-width: 85%;
     margin-top: 0.4rem;
+    margin-bottom: 0.4rem;
 }
 
 .parent {
     display: flex;
     background-color: white;
-    width: 100%;
-    margin-bottom: 1rem;
+    width: 100%; 
     border-radius: 7px;
     overflow: hidden;
+}
+
+.parent:not(:last-child){
+    margin-bottom: 1rem;
 }
 
 .vertical-div {
